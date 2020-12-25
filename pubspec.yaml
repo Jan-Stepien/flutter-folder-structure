@@ -1,5 +1,5 @@
-name: coffe_buds
-description: Coffe team tasting experience
+name: flutter_folder_structure
+description: Initial flutter folder structure
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

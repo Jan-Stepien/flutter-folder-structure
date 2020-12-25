@@ -1,6 +1,6 @@
 {
-    "name": "coffe_buds",
-    "short_name": "coffe_buds",
+    "name": "flutter_folder_structure",
+    "short_name": "flutter_folder_structure",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
